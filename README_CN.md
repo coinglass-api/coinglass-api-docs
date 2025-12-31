@@ -63,8 +63,8 @@
 | 大户账户数多空比历史 | [Link](./rest_CN/futu/long-short-ratio/top-longshort-account-ratio.md)        | [Link](https://docs.coinglass.com/v4.0-zh/reference/top-longshort-account-ratio)        |
 | 大户持仓多空比历史  | [Link](./rest_CN/futu/long-short-ratio/top-longshort-position-ratio.md)       | [Link](https://docs.coinglass.com/v4.0-zh/reference/top-longshort-position-ratio)       |
 | 币种主动买卖比    | [Link](./rest_CN/futu/long-short-ratio/taker-buysell-volume-exchange-list.md) | [Link](https://docs.coinglass.com/v4.0-zh/reference/taker-buysell-volume-exchange-list) |
-| 净持仓        | [Link](./rest_CN/futu/long-short-ratio/净持仓.md)                                | [Link](https://docs.coinglass.com/v4.0-zh/reference/净持仓)                                |
-| 净持仓(v2)    | [Link](./rest_CN/futu/long-short-ratio/净持仓v2.md)                              | [Link](https://docs.coinglass.com/v4.0-zh/reference/净持仓v2)                              |
+| 净持仓        | [Link](./rest_CN/futu/long-short-ratio/net-position.md)                                | [Link](https://docs.coinglass.com/v4.0-zh/reference/net-position)                                |
+| 净持仓(v2)    | [Link](./rest_CN/futu/long-short-ratio/net-position-v2.md)                              | [Link](https://docs.coinglass.com/v4.0-zh/reference/net-position-v2)                              |
 
 ## 合约 - 爆仓与清算
 
@@ -227,8 +227,8 @@
 | 布林带指标 (BOLL)      | [Link](./rest_CN/indic/futures-1/futures-indicators-boll.md) | [Link](https://docs.coinglass.com/v4.0-zh/reference/futures-indicators-boll) |
 | 移动平均收敛发散指标 (MACD) | [Link](./rest_CN/indic/futures-1/futures-indicators-macd.md) | [Link](https://docs.coinglass.com/v4.0-zh/reference/futures-indicators-macd) |
 | 合约基差              | [Link](./rest_CN/indic/futures-1/basis.md)                   | [Link](https://docs.coinglass.com/v4.0-zh/reference/basis)                   |
-| 鲸鱼指数              | [Link](./rest_CN/indic/futures-1/鲸鱼指数.md)                    | [Link](https://docs.coinglass.com/v4.0-zh/reference/鲸鱼指数)                    |
-| CGDI 指数           | [Link](./rest_CN/indic/futures-1/cgdi-指数.md)                 | [Link](https://docs.coinglass.com/v4.0-zh/reference/cgdi-指数)                 |
+| 鲸鱼指数              | [Link](./rest_CN/indic/futures-1/whale-index.md)                    | [Link](https://docs.coinglass.com/v4.0-zh/reference/whale-index)                    |
+| CGDI 指数           | [Link](./rest_CN/indic/futures-1/cgdi-index.md)                 | [Link](https://docs.coinglass.com/v4.0-zh/reference/cgdi-index)                 |
 | CDRI 指数           | [Link](./rest_CN/indic/futures-1/cdri-index.md)              | [Link](https://docs.coinglass.com/v4.0-zh/reference/cdri-index)              |
 
 ## 指标 - 现货
@@ -280,16 +280,16 @@
 
 | 名称   | github链接                                             | 文档链接                                                                         |
 | ---- | ---------------------------------------------------- | ---------------------------------------------------------------------------- |
-| 经济数据 | [Link](./rest_CN/其他/财经日历/economic-data.md)           | [Link](https://docs.coinglass.com/v4.0-zh/reference/economic-data)           |
-| 财经事件 | [Link](./rest_CN/其他/财经日历/financial-events.md)        | [Link](https://docs.coinglass.com/v4.0-zh/reference/financial-events)        |
-| 央行动态 | [Link](./rest_CN/其他/财经日历/central-bank-activities.md) | [Link](https://docs.coinglass.com/v4.0-zh/reference/central-bank-activities) |
+| 经济数据 | [Link](./rest_CN/other/financial-calender/economic-data.md)           | [Link](https://docs.coinglass.com/v4.0-zh/reference/economic-data)           |
+| 财经事件 | [Link](./rest_CN/other/financial-calender/financial-events.md)        | [Link](https://docs.coinglass.com/v4.0-zh/reference/financial-events)        |
+| 央行动态 | [Link](./rest_CN/other/financial-calender/central-bank-activities.md) | [Link](https://docs.coinglass.com/v4.0-zh/reference/central-bank-activities) |
 
 ## 其他 - 新闻、快讯
 
 | 名称 | github链接                                  | 文档链接                                                                |
 | -- | ----------------------------------------- | ------------------------------------------------------------------- |
-| 新闻 | [Link](./rest_CN/其他/新闻/article-list.md)   | [Link](https://docs.coinglass.com/v4.0-zh/reference/article-list)   |
-| 快讯 | [Link](./rest_CN/其他/新闻/newsflash-list.md) | [Link](https://docs.coinglass.com/v4.0-zh/reference/newsflash-list) |
+| 新闻 | [Link](./rest_CN/other/news-newsflash/article-list.md)   | [Link](https://docs.coinglass.com/v4.0-zh/reference/article-list)   |
+| 快讯 | [Link](./rest_CN/other/news-newsflash/newsflash-list.md) | [Link](https://docs.coinglass.com/v4.0-zh/reference/newsflash-list) |
 
 
 

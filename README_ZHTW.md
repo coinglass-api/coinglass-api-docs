@@ -62,8 +62,8 @@
 | 大戶帳戶數多空比歷史 | [Link](./rest_ZHTW/futu/long-short-ratio/top-longshort-account-ratio.md)        | [Link](https://docs.coinglass.com/v4.0-zhtw/reference/top-longshort-account-ratio)        |
 | 大戶持倉多空比歷史  | [Link](./rest_ZHTW/futu/long-short-ratio/top-longshort-position-ratio.md)       | [Link](https://docs.coinglass.com/v4.0-zhtw/reference/top-longshort-position-ratio)       |
 | 幣種主動買賣比    | [Link](./rest_ZHTW/futu/long-short-ratio/taker-buysell-volume-exchange-list.md) | [Link](https://docs.coinglass.com/v4.0-zhtw/reference/taker-buysell-volume-exchange-list) |
-| 淨持倉        | [Link](./rest_ZHTW/futu/long-short-ratio/淨持倉.md)                                | [Link](https://docs.coinglass.com/v4.0-zhtw/reference/淨持倉)                                |
-| 淨持倉(v2)    | [Link](./rest_ZHTW/futu/long-short-ratio/淨持倉v2.md)                              | [Link](https://docs.coinglass.com/v4.0-zhtw/reference/淨持倉v2)                              |
+| 淨持倉        | [Link](./rest_ZHTW/futu/long-short-ratio/net-position.md)                                | [Link](https://docs.coinglass.com/v4.0-zhtw/reference/net-position)                                |
+| 淨持倉(v2)    | [Link](./rest_ZHTW/futu/long-short-ratio/net-position-v2.md)                              | [Link](https://docs.coinglass.com/v4.0-zhtw/reference/net-position-v2)                              |
 
 ## 合約數據 - 爆倉與清算
 
@@ -279,14 +279,14 @@
 
 | 名稱   | github連結                                     | 文件連結                                                                 |
 | ---- | -------------------------------------------- | -------------------------------------------------------------------- |
-| 經濟數據 | [Link](./rest_ZHTW/其他/財經日曆/economic-data.md) | [Link](https://docs.coinglass.com/v4.0-zhtw/reference/economic-data) |
+| 經濟數據 | [Link](./rest_ZHTW/other/financial-calender/economic-data.md) | [Link](https://docs.coinglass.com/v4.0-zhtw/reference/economic-data) |
 
 ## 其他 - 新聞、快訊
 
 | 名稱 | github連結                                       | 文件連結                                                                  |
 | -- | ---------------------------------------------- | --------------------------------------------------------------------- |
-| 新聞 | [Link](./rest_ZHTW/其他/新聞-快訊/article-list.md)   | [Link](https://docs.coinglass.com/v4.0-zhtw/reference/article-list)   |
-| 快訊 | [Link](./rest_ZHTW/其他/新聞-快訊/newsflash-list.md) | [Link](https://docs.coinglass.com/v4.0-zhtw/reference/newsflash-list) |
+| 新聞 | [Link](./rest_ZHTW/other/news-newsflash/article-list.md)   | [Link](https://docs.coinglass.com/v4.0-zhtw/reference/article-list)   |
+| 快訊 | [Link](./rest_ZHTW/other/news-newsflash/newsflash-list.md) | [Link](https://docs.coinglass.com/v4.0-zhtw/reference/newsflash-list) |
 
 
 
