@@ -1,4 +1,4 @@
-# Official Documentation for the CoinGlass APIs and WebSocket.
+# Crypto Data API - Official Documentation for the CoinGlass APIs and WebSocket.
 
 * WebSocket, endpoints, parameters, payloads, etc. described in the documents in this repository are considered **official** and **supported**.
 * The use of any other WebSocket, endpoints, parameters, or payloads, etc. is **not supported**; **use them at your own risk and with no guarantees.**
